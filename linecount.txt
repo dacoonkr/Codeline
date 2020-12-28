@@ -1,0 +1,6 @@
++
+.h
+.c
+
+=
+C:\Python38\include
